@@ -1,0 +1,2 @@
+# Buscar imagen para poner de fondo en el juego de adivinar numero.
+

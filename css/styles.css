@@ -29,8 +29,7 @@ footer a {
 .container {
     width: 400px;
     border-radius: 10px;
-    background-color: #a51205;
-    background-image: linear-gradient(168deg, #a51205 8%, #ffa600 100%);
+    background-image: linear-gradient(160deg, rgb(41, 128, 185), rgb(109, 213, 250), rgb(255, 255, 255));
     margin: 0 auto;
     text-align: center;
     position: relative;
